@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QtYDNCpBFoQH53Fq6ZqlasZYBykGQu3MSrz0bQSo7Qmxx/AGCzgcOkz7WXxyRznzeeQcg0eUIbeOK0FYPQJ4IA==",
+  "dgSpecHash": "GCGici05SNHtp+lqM8F1wIuBkKY8xt0XkhQpfKA5EobIXy+VvV6RKS8YwA6JmQxe7PGkqCqkKYKXvEvRCCL1tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementsExercise2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\repos\\Selection-Statement-Exercise-2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.24\\microsoft.netcore.app.host.win-x86.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
